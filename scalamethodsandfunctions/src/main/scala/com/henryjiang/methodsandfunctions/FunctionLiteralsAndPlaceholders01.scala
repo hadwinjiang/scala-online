@@ -1,6 +1,6 @@
 package com.henryjiang.methodsandfunctions
 
-object FunctionLiteralsAndPlaceholders extends App {
+object FunctionLiteralsAndPlaceholders01 extends App {
 
   var multiplyBy = (x: Int) => x * 100
   println(multiplyBy(3))
