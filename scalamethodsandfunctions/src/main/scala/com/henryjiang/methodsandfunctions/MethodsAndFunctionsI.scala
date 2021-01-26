@@ -1,6 +1,6 @@
 package com.henryjiang.methodsandfunctions
 
-object MethodsAndFunctions extends App {
+object MethodsAndFunctionsI extends App {
 
   var data = Array("PS", "MSFT", "GOOG", "AAPL", "TLSA")
 
